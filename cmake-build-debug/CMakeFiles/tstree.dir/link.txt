@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/tstree.dir/ex46/tstree.c.o CMakeFiles/tstree.dir/ex46/tstree_tests.c.o  -o tstree 

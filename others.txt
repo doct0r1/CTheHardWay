@@ -1,0 +1,3 @@
+doc for Go language: https://golang.org/doc/
+
+how to build your own C library (CS50): http://www.cs.dartmouth.edu/~campbell/cs50/buildlib.html

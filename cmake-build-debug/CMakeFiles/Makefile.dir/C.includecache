@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dd/Desktop/C_HardWay/dbg.h
+stdio.h
+-
+errno.h
+-
+string.h
+-
+
+/Users/dd/Desktop/C_HardWay/ex26/ex26.c
+../dbg.h
+/Users/dd/Desktop/C_HardWay/dbg.h
+stdlib.h
+-
+glob.h
+-
+assert.h
+-
+

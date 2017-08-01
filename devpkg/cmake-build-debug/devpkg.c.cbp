@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="devpkg.c"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="commands">
+				<Option output="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/commands" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 commands"/>
+					<CompileFile command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="commands/fast">
+				<Option output="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/commands" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 commands/fast"/>
+					<CompileFile command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shell">
+				<Option output="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/shell" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 shell"/>
+					<CompileFile command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shell/fast">
+				<Option output="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/shell" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 shell/fast"/>
+					<CompileFile command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="db">
+				<Option output="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/db" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 db"/>
+					<CompileFile command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="db/fast">
+				<Option output="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/db" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 db/fast"/>
+					<CompileFile command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="devpkg.c">
+				<Option output="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/devpkg.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 devpkg.c"/>
+					<CompileFile command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="devpkg.c/fast">
+				<Option output="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/devpkg.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 devpkg.c/fast"/>
+					<CompileFile command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j8 -f &quot;/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/dd/Desktop/C_HardWay/ex41/apr_thread_proc.h">
+			<Option target="devpkg.c"/>
+		</Unit>
+		<Unit filename="/Users/dd/Desktop/C_HardWay/ex41/commands.c">
+			<Option target="commands"/>
+		</Unit>
+		<Unit filename="/Users/dd/Desktop/C_HardWay/ex41/commands.h">
+			<Option target="commands"/>
+		</Unit>
+		<Unit filename="/Users/dd/Desktop/C_HardWay/ex41/db.c">
+			<Option target="db"/>
+			<Option target="devpkg.c"/>
+		</Unit>
+		<Unit filename="/Users/dd/Desktop/C_HardWay/ex41/db.h">
+			<Option target="db"/>
+			<Option target="devpkg.c"/>
+		</Unit>
+		<Unit filename="/Users/dd/Desktop/C_HardWay/ex41/devpkg.c">
+			<Option target="devpkg.c"/>
+		</Unit>
+		<Unit filename="/Users/dd/Desktop/C_HardWay/ex41/installShell.sh">
+			<Option target="devpkg.c"/>
+		</Unit>
+		<Unit filename="/Users/dd/Desktop/C_HardWay/ex41/shell.c">
+			<Option target="shell"/>
+			<Option target="devpkg.c"/>
+		</Unit>
+		<Unit filename="/Users/dd/Desktop/C_HardWay/ex41/shell.h">
+			<Option target="shell"/>
+			<Option target="devpkg.c"/>
+		</Unit>
+		<Unit filename="/Users/dd/Desktop/C_HardWay/ex41/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

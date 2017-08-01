@@ -1,0 +1,6 @@
+/Users/dd/Desktop/C_HardWay/finalProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dd/Desktop/C_HardWay/finalProject/cmake-build-debug/CMakeFiles/statserve_tests.dir
+/Users/dd/Desktop/C_HardWay/finalProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dd/Desktop/C_HardWay/finalProject/cmake-build-debug/CMakeFiles/statserve.dir
+/Users/dd/Desktop/C_HardWay/finalProject/cmake-build-debug/CMakeFiles/net.dir
+/Users/dd/Desktop/C_HardWay/finalProject/cmake-build-debug/CMakeFiles/finalProject.dir

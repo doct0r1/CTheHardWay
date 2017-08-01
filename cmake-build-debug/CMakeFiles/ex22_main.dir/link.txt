@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ex22_main.dir/ex22_main.c.o CMakeFiles/ex22_main.dir/ex22.c.o  -o ex22_main 

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/hashmap_algos_tests.dir/ex38/hashmap_algos_tests.c.o  -o hashmap_algos_tests 

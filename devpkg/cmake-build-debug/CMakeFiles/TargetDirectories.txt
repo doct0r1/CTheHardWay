@@ -1,0 +1,6 @@
+/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/CMakeFiles/commands.dir
+/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/CMakeFiles/shell.dir
+/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/CMakeFiles/db.dir
+/Users/dd/Desktop/C_HardWay/ex41/cmake-build-debug/CMakeFiles/devpkg.c.dir
