@@ -27,6 +27,3 @@ NOTE ⚠️:
   - some .c files added more commented it.
   - encountered a problem creating some libraries on my Mac as i used an IDE so i started the book as one project.
   
-  
-  
- <  ### THE BOOK UPLOADED AT THIS REPOSITORY. ### >
